@@ -30,7 +30,7 @@ Resposta em ~10min: review formatada com padrões cruzados.
 ### One-liner
 
 ```bash
-curl -sSL https://marfin.co/install.sh | sh -s weekly-review
+curl -sSL https://raw.githubusercontent.com/marfin-lab/skills/main/install.sh | sh -s weekly-review
 ```
 
 ### Manual
